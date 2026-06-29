@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "A premium, luxurious finance tracking dashboard with interactive analytics, budgets, goals, and multi-wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
